@@ -1,4 +1,5 @@
-public abstract class Shape {
+public abstract class Shape
+{
     private String type;
 
     public Shape(String type)
